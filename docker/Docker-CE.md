@@ -1,5 +1,3 @@
-# Dockers
-
 ## Manage docker as a non-root user
 1. Create the docker group
 ```
@@ -24,5 +22,5 @@ By default, the Docker daemon listens for connections on a UNIX socket.
 It is configurabled at "Bind Docker to another host/port or a unix socket"
 [Docker CLI Reference](https://docs.docker.com/engine/reference/commandline/dockerd/)
 
-`#question` What is the Docker daemon?
-
+`#question`   
+What is the Docker daemon?
