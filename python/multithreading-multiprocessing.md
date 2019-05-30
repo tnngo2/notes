@@ -1,4 +1,6 @@
 ### Multithreading vs Multiprocessing
+> flash-card: https://ankiuser.net/study/   
+
 ❓ Multithreading vs Multiprocessing   
 [source][1]   
 
